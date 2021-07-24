@@ -25,7 +25,7 @@ I'm Thays Gama, I'm an aspiring Software Developer and I've been studying tech s
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysgama&layout=compact&show_icons=true&theme=dracula)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysgama&theme=dracula&card_width=310" alt="Top Langs" style="zoom:80%;" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysgama&layout=compact&show_icons=true&theme=dracula&line_height=33)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysgama&theme=dracula&card_width=310)
 
 
 
