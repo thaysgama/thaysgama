@@ -1,3 +1,5 @@
+
+
 ## Hi there! :wave:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=thaysgama.thaysgama)
@@ -6,11 +8,11 @@ I'm Thays Gama, I'm an aspiring Software Developer and I've been studying tech s
 
 #### ✉️ Find me on:
 
-
-<p align="center">
+<p align="left">
  <a href="https://linkedin.com/in/thays-gama-b32923111/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:thays.s.gama@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
 
 
 #### 🧰 Languages and Tools:
@@ -21,4 +23,15 @@ I'm Thays Gama, I'm an aspiring Software Developer and I've been studying tech s
 
 #### :trophy: My Github Stats:
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=thaysgama&count_private=true&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysgama&theme=dracula)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysgama&layout=compact&show_icons=true&theme=dracula)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysgama&theme=dracula&card_width=310" alt="Top Langs" style="zoom:80%;" />
+
+
+
+
+
+
+
+
+
